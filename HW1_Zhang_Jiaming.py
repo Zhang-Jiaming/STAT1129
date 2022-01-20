@@ -25,6 +25,6 @@ print("The sum value of the list is", list2_sum)
 
 #Question 3
 weather = {"sunny":"play", "rainy":"watch TV", "cloudy":"walk"}
-for i in weather:
-    print("When", i, "let us", weather[i])
+for j in weather:
+    print("When", j, "let us", weather[j])
 weather['snowy'] = "ski"
